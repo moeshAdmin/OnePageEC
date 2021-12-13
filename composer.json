@@ -1,0 +1,7 @@
+{
+    "require": {
+        "minishlink/web-push": "^5.1",
+        "google/apiclient": "^2.7",
+        "pimax/fb-messenger-php": "dev-master"
+    }
+}
